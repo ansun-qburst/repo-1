@@ -1,0 +1,284 @@
+    1  sudo passwd
+    2  ping google.com
+    3  sudo apt-get update
+    4  sudo apt install ffmpeg
+    5  Hence you are requested to update your Space profile which is a mandatory requ the same until you update your profile completely.
+    6  Hence you are requested to update your Space profile which is a mandatory requ
+    7  date
+    8  clear
+    9  ls root
+   10  clear
+   11  /
+   12  /root
+   13  clear
+   14  ls
+   15  gedit
+   16  pwd
+   17  cd Desktop/
+   18  gedit
+   19  cd.
+   20  cd..
+   21  cd ..
+   22  ls
+   23  cd ..
+   24  ls
+   25  clear
+   26  la
+   27  ls
+   28  clear
+   29  pwd
+   30  ls
+   31  cd home
+   32  ls
+   33  cd qburst/
+   34  ls
+   35  pwd
+   36  clear
+   37  pwd
+   38  ls -
+   39  ls ~
+   40  ls /
+   41  ls-
+   42  cle
+   43  clear
+   44  ls
+   45  cd Desktop/
+   46  ls -i
+   47  ls -i/
+   48  ls -i /
+   49  ls -l
+   50  ld -l
+   51  ls -l
+   52  ln doc1 hardlink1
+   53  ln doc1 hardlink2
+   54  ls
+   55  ls -l
+   56  ln -s doc1 softlink1
+   57  ln -s doc1 softlink2
+   58  ls -l
+   59  ls
+   60  ln -s dir1 softdir1
+   61  ls
+   62  ln -s dir1 softdir
+   63  sl
+   64  ls
+   65  ls -l
+   66  ln -s dir1 softdir
+   67  ls -a
+   68  ls
+   69  cle
+   70  arclear
+   71  clear
+   72  touch .hidden
+   73  ls
+   74  cat .hidden
+   75  ls
+   76  clear
+   77  gedit
+   78  pwd
+   79  ls
+   80  cd Desktop/
+   81  ls
+   82  nano hi
+   83  gedit
+   84  ls
+   85  nano hello 
+   86  nano hi
+   87  clear
+   88  history
+   89  cd ..
+   90  ls
+   91  cd ..
+   92  ls
+   93  cd ...
+   94  cd /
+   95  ls
+   96  gedit .bash_history
+   97  ls
+   98  la -a
+   99  cd ~
+  100  ls
+  101  ls -a
+  102  gedit .bash_history
+  103  clear
+  104  cd /
+  105  ls
+  106  ls -a
+  107  cd ~
+  108  ls -a
+  109  gedit .bash_logout
+  110  clear
+  111  ls -a
+  112  ls -latR
+  113  cd /
+  114  ls -latR
+  115  clear
+  116  pwd
+  117  ls
+  118  cd usr
+  119  ls
+  120  cd ..
+  121  ls
+  122  cd ~
+  123  ls
+  124  cd Desktop/
+  125  ls
+  126  touch fie1
+  127  ls
+  128  dist
+  129  ls
+  130  ls -a
+  131  ls 
+  132  clear
+  133  foo
+  134  alias
+  135  cd Desktop/
+  136  less hello 
+  137  for ((i=1;i<=1000;i++)); do echo $i >> thousand; done
+  138  gedit thousand 
+  139  head thousand 
+  140  head -4 thousand 
+  141  foo
+  142  type cd
+  143  type ls
+  144  cd /
+  145  ls
+  146  cd bin
+  147  ls
+  148  file m2400w 
+  149  file lzmore
+  150  file linux32
+  151  type wc
+  152  file wc
+  153  file type wc
+  154  cd lib64
+  155  type wc
+  156  file /usr/bin/wc
+  157  ls ~
+  158  cd ~
+  159  man cal
+  160  which ls
+  161  which cd
+  162  cd ~
+  163  ls -a
+  164  gedit .bashrc
+  165  fooo
+  166  foo
+  167  foo
+  168  cd 
+  169  cd ~
+  170  ls -a
+  171  gedit .bashrc
+  172  alias
+  173  sudo apt get install ruby
+  174  ruby
+  175  sudo apt  install ruby
+  176  irb
+  177  sudo apt  install ruby  # version 1:2.7+1
+  178  irb
+  179  sudo apt install ./<file>.deb
+  180  clear
+  181  irb
+  182  sudo apt install ./<file>.deb
+  183  sudo apt install gnupg2 software-properties-common apt-transport-https wget
+  184  wget -q https://packages.microsoft.com/keys/microsoft.asc -O- | sudo apt-key add -
+  185  sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/vscode stable main"
+  186  sudo apt install code
+  187  code
+  188  gem install solargraph
+  189  coed
+  190  code
+  191  python
+  192  git
+  193  sudo apt install git
+  194  git help
+  195  git help config
+  196  pwd
+  197  cd Desktop/
+  198  git init git-demo
+  199  ls -a
+  200  cd git-demo/
+  201  ls -a
+  202  cd ..
+  203  git config --global user.name "ansun-qburst"
+  204  git config --global user.email "ansun@qburst.com"
+  205  git config --global --list
+  206  git init
+  207  ls -a
+  208  rm .git
+  209  rmdir .git
+  210  rmdir -r .git
+  211  rmdir -R .git
+  212  rmdir-R .git
+  213  rmdir-r .git
+  214  rm -R .git
+  215  ls
+  216  rmdir
+  217  rmdir git-demo
+  218  rm -r git-demo
+  219  git init git-demo
+  220  cd git-demo/
+  221  git remote show origin
+  222  git config --list
+  223  git config --global --edit
+  224  cd ..
+  225  ls
+  226  cd git-demo/
+  227  ls -a
+  228  touch moisture
+  229  nano moisture
+  230  cat moisture 
+  231  git status
+  232  gid add moisture
+  233  git add moisture
+  234  git commit moisture -m "initial commit"
+  235  git config --global user.email "ansun@qburst.com"
+  236  git config --global user.name "ansun-qburst"
+  237  git commit moisture -m "initial commit"
+  238  nano moisture 
+  239  git status
+  240  git add moisture 
+  241  git commit moisture 
+  242  git log
+  243  git push moisture
+  244  ruby
+  245  irb
+  246  git remote add origin https://github.com/ansun-qburst/repo-1.git
+  247  ls
+  248  cd Desktop/
+  249  ls
+  250  cd MyQuoteBook/
+  251  git remote add origin https://github.com/ansun-qburst/repo-1.git
+  252  git remote
+  253  git push origin master
+  254  git remote add origin https://github.com/ansun-qburst/repo-1.git
+  255  git push origin master
+  256  it clone https://<tokenhere>@github.com/<user>/<repo>.git
+  257  it clone https://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@github.com/ansun-qburst/repo-1.git
+  258  git clone https://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@github.com/ansun-qburst/repo-1.git
+  259  git push origin master
+  260  git branch
+  261  git push --all origin
+  262  git push -u origin master
+  263  ls
+  264  cd repo-1/
+  265  ls
+  266  ls -a
+  267  cd ..
+  268  ls
+  269  nano hapiness 
+  270  git status
+  271  git add .
+  272  git add hapiness
+  273  git commit -m "hapiness update"
+  274  git push 
+  275  git status
+  276  ls
+  277  git status
+  278  git pull origin master
+  279  cat motivationalquotes 
+  280  git remote add origin https://github.com/ansun-qburst/repo-1.git
+  281  history
+  282  gedit history
+  283  history
+
